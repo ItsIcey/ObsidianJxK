@@ -206,8 +206,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-livesync:Replicate": false,
-      "obsidian-livesync:Show Log": false,
+      "github-sync:Sync with Remote": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -218,8 +217,7 @@
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
       "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
-      "obsidian-livesync:Show Customization sync": false
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
   "active": "e7a7b303c61786dc",
