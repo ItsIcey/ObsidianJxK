@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Tasks/New Task 1.md",
+                "file": "00 Home/Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "New Task 1"
+              "title": "Tasks"
             }
           }
         ]
@@ -89,7 +89,7 @@
       {
         "id": "97c5f16c17d8116d",
         "type": "tabs",
-        "dimension": 23.01808066759388,
+        "dimension": 23.226703755215578,
         "children": [
           {
             "id": "89b6e8400e72c625",
@@ -184,7 +184,7 @@
       {
         "id": "f6ddb238614fc2b4",
         "type": "tabs",
-        "dimension": 76.98191933240612,
+        "dimension": 76.77329624478443,
         "children": [
           {
             "id": "5fe02cc2cf1d179e",
@@ -217,10 +217,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "5fe02cc2cf1d179e",
   "lastOpenFiles": [
-    "00 Home/Homepage.md",
     "01 Tasks/New Task 1.md",
+    "00 Home/Homepage.md",
     "Untitled.md",
     "97 Templates/Projects/Task Template.md",
     "97 Templates/Projects",
