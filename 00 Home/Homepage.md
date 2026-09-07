@@ -1,5 +1,5 @@
 ```contributionGraph
-title: Completed Tasks
+title: Contributions
 graphType: default
 dateRangeValue: 180
 dateRangeType: LATEST_MONTH
@@ -12,13 +12,17 @@ titleStyle:
 dataSource:
   type: ALL_TASK
   value: ""
-  dateField: {}
-  filters: [Status_Is: Completed]
+  dateField:
+    type: FILE_MTIME
+  filters:
+    - id: "1788790913756"
+      type: STATUS_IS
+      value: COMPLETED
 fillTheScreen: false
 enableMainContainerShadow: false
 cellStyle:
-  minWidth: 16px
-  minHeight: 15px
+  minHeight: 10px
+  minWidth: 10px
 cellStyleRules: []
 
 ```
