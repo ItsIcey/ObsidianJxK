@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Home/Tasks.md",
+                "file": "01 Tasks/Wash Dishes.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Wash Dishes"
             }
           }
         ]
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Home/Tasks.md",
+                "file": "01 Tasks/Wash Dishes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,9 +222,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "00 Home/Tasks.md",
     "00 Home/Homepage.md",
     "00 Home/Untitled.base",
-    "00 Home/Tasks.md",
     "01 Tasks/Wash Dishes.md",
     "97 Templates/Projects/Task Template.md",
     "97 Templates/Task.md",
