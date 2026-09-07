@@ -89,6 +89,7 @@
       {
         "id": "97c5f16c17d8116d",
         "type": "tabs",
+        "dimension": 32.450980392156865,
         "children": [
           {
             "id": "89b6e8400e72c625",
@@ -178,10 +179,27 @@
           }
         ],
         "currentTab": 5
+      },
+      {
+        "id": "86c1ad476ac782d9",
+        "type": "tabs",
+        "dimension": 67.54901960784314,
+        "children": [
+          {
+            "id": "0c6ca1c6708faf3d",
+            "type": "leaf",
+            "state": {
+              "type": "time-ruler-view",
+              "state": {},
+              "icon": "ruler",
+              "title": "Time Ruler"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 355.833251953125
+    "width": 421.833251953125
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,10 +223,11 @@
       "tasknotes:Open Pomodoro timer": false,
       "tasknotes:Open Pomodoro statistics": false,
       "tasknotes:Create new task": false,
-      "time-blocks:Open time blocks": false
+      "time-blocks:Open time blocks": false,
+      "time-ruler:Open Time Ruler": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "0c6ca1c6708faf3d",
   "lastOpenFiles": [
     "00 Home/Tasks.md",
     "01 Tasks/Wash Dishes.md",
