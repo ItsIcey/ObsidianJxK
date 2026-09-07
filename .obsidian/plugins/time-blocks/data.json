@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "settings": {
+    "calendarFeeds": [],
+    "defaultTaskDuration": 30,
+    "workdayStart": 8,
+    "workdayEnd": 18,
+    "taskBlockColor": "#7B61FF",
+    "gcalEventColor": "#4285F4",
+    "tagColors": {},
+    "showCompletedTasks": false,
+    "taskTagFilter": "",
+    "backlogMode": "all",
+    "customTaskQuery": "",
+    "enableTwoWaySync": false,
+    "oauthClientId": "",
+    "oauthTokens": null,
+    "syncCalendarId": "primary",
+    "conflictStrategy": "ask",
+    "writableCalendarIds": []
+  },
+  "blocks": [],
+  "eventMappings": []
+}
