@@ -1,5 +1,5 @@
 
-> Hit $\text{Ctrl} + P$ and search $\text{Task: Create or Edit task}$
+> Hit $\text{Ctrl} + P$ and search $\text{Tasks: Create or Edit task}$
 
 #TODO
 
