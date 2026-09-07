@@ -167,26 +167,6 @@
             }
           },
           {
-            "id": "c9e2f50dac61f15f",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
-            }
-          },
-          {
-            "id": "4e0eb0d3be60ffde",
-            "type": "leaf",
-            "state": {
-              "type": "planner-time-tracker",
-              "state": {},
-              "icon": "timer",
-              "title": "Time Tracker"
-            }
-          },
-          {
             "id": "afad55703834db31",
             "type": "leaf",
             "state": {
@@ -197,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,7 +204,8 @@
       "tasknotes:Open Kanban board": false,
       "tasknotes:Open Pomodoro timer": false,
       "tasknotes:Open Pomodoro statistics": false,
-      "tasknotes:Create new task": false
+      "tasknotes:Create new task": false,
+      "time-blocks:Open time blocks": false
     }
   },
   "active": "afad55703834db31",
