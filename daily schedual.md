@@ -3,4 +3,8 @@ regret waking up
 sleep more
 wake up again
 shower
-ea
+eat
+excersize for X hours OR X excersizes
+work from X to Y  (set time here)
+relax after dinner
+dinner
