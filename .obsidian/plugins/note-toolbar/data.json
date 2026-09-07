@@ -1,6 +1,6 @@
 {
   "debugEnabled": false,
-  "defaultToolbar": null,
+  "defaultToolbar": "b99e50df-0e27-46c4-8dbe-f138a6764ece",
   "editorMenuAsToolbar": false,
   "editorMenuToolbar": null,
   "emptyViewToolbar": null,
@@ -17,7 +17,8 @@
   "obsidianUiVisibility": {},
   "onboarding": {
     "startup-help-view": true,
-    "startup-help-welcome": true
+    "startup-help-welcome": true,
+    "default-b99e50df-0e27-46c4-8dbe-f138a6764ece": true
   },
   "ribbon": [],
   "rules": [],
@@ -91,7 +92,8 @@
           },
           "scriptConfig": {
             "pluginFunction": "createFrom",
-            "outputFile": "New Task"
+            "outputFile": "New Task",
+            "sourceFile": "97 Templates/Projects/Task Template.md"
           }
         }
       ],
@@ -114,7 +116,7 @@
           }
         }
       },
-      "updated": "2026-09-07T14:42:45.606Z"
+      "updated": "2026-09-07T14:42:52.824Z"
     }
   ],
   "version": 20260703.1,
