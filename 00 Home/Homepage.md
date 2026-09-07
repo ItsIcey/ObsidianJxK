@@ -7,16 +7,17 @@ startOfWeek: 0
 showCellRuleIndicators: true
 titleStyle:
   textAlign: left
-  fontSize: 15px
+  fontSize: 30px
   fontWeight: normal
 dataSource:
   type: ALL_TASK
   value: ""
   dateField: {}
   filters: []
-fillTheScreen: true
+fillTheScreen: false
 enableMainContainerShadow: false
 cellStyleRules: []
 ```
+
 
 
