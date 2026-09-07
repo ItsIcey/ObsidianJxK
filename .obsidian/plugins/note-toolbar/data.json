@@ -92,7 +92,7 @@
           },
           "scriptConfig": {
             "pluginFunction": "createFrom",
-            "outputFile": "New Task",
+            "outputFile": "01 Tasks/New Task",
             "sourceFile": "97 Templates/Projects/Task Template.md"
           }
         }
@@ -116,7 +116,7 @@
           }
         }
       },
-      "updated": "2026-09-07T14:42:52.824Z"
+      "updated": "2026-09-07T14:46:14.138Z"
     }
   ],
   "version": 20260703.1,
