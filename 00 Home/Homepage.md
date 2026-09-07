@@ -1,5 +1,5 @@
 ```contributionGraph
-title: Contributions
+title: Notes
 graphType: default
 dateRangeValue: 180
 dateRangeType: LATEST_DAYS
