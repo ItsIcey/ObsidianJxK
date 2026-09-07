@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "84508f70ad176108",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +203,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           }
         ]
@@ -231,6 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "time-ruler:Open Time Ruler": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -240,12 +226,10 @@
       "bases:Create new base": false,
       "templater-obsidian:Templater": false,
       "homepage:Open homepage": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false,
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "84508f70ad176108",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "Untitled.md",
     "00 Home/Homepage.md",
