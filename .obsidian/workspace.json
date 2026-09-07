@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Home/Tasks.md",
+                "file": "2026-09-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026-09-07"
             }
           }
         ]
@@ -216,19 +216,20 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "681d477ba8cf88ba",
   "lastOpenFiles": [
+    "Untitled",
+    "00 Home/Homepage.md",
+    "2026-09-07.md",
+    "00 Home/Tasks.md",
     "01 Tasks/Wash Dishes.md",
     "01 Tasks/New Task 1.md",
     "01 Tasks/New Task.md",
-    "00 Home/Homepage.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
     "Untitled 3.md",
     "00 Home/Julia Dashboard.md",
-    "2026-09-07.md",
-    "00 Home/Tasks.md",
     "97 Templates/Projects/Task Template.md",
     "TaskNotes/Start Here.md",
     "TaskNotes/Views/relationships.base",
