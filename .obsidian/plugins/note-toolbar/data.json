@@ -56,8 +56,8 @@
       "items": [
         {
           "uuid": "e801c2db-b938-4929-a53a-eb39aea7a5c9",
-          "icon": "",
-          "label": "",
+          "icon": "lucide-alarm-clock",
+          "label": "Task",
           "tooltip": "",
           "hasCommand": false,
           "inGallery": false,
@@ -66,7 +66,7 @@
             "commandCheck": false,
             "commandId": "",
             "hasVars": false,
-            "type": "command"
+            "type": "templater-obsidian"
           },
           "visibility": {
             "desktop": {
@@ -88,6 +88,10 @@
               ]
             },
             "viewMode": "all"
+          },
+          "scriptConfig": {
+            "pluginFunction": "createFrom",
+            "outputFile": "New Task"
           }
         }
       ],
@@ -110,7 +114,7 @@
           }
         }
       },
-      "updated": "2026-09-07T14:41:49.274Z"
+      "updated": "2026-09-07T14:42:45.606Z"
     }
   ],
   "version": 20260703.1,
