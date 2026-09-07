@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Home/Homepage.md",
+                "file": "01 Tasks/New Task 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "01 Tasks/New Task 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links"
             }
           },
           {
@@ -179,7 +179,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
         "id": "38b3b0f92378a140",
@@ -217,7 +217,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "2f69a07ac58c00c8",
   "lastOpenFiles": [
     "01 Tasks/New Task.md",
     "00 Home/Tasks.md",
