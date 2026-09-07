@@ -186,19 +186,9 @@
               "icon": "timer",
               "title": "Time Tracker"
             }
-          },
-          {
-            "id": "7c093710ffbacb93",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -220,7 +210,7 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "7c093710ffbacb93",
+  "active": "4e0eb0d3be60ffde",
   "lastOpenFiles": [
     "01 Tasks/Wash Dishes.md",
     "00 Home/Tasks.md",
