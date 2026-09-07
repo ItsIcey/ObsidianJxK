@@ -181,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 486.5
+    "width": 620.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +208,7 @@
       "time-blocks:Open time blocks": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "afad55703834db31",
   "lastOpenFiles": [
     "01 Tasks/Wash Dishes.md",
     "97 Templates/Projects/Task Template.md",
