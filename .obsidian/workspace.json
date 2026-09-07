@@ -89,6 +89,7 @@
       {
         "id": "97c5f16c17d8116d",
         "type": "tabs",
+        "dimension": 23.01808066759388,
         "children": [
           {
             "id": "89b6e8400e72c625",
@@ -96,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "00 Home/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,26 +169,6 @@
             }
           },
           {
-            "id": "c9e2f50dac61f15f",
-            "type": "leaf",
-            "state": {
-              "type": "planner-timeline",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-timeline"
-            }
-          },
-          {
-            "id": "4e0eb0d3be60ffde",
-            "type": "leaf",
-            "state": {
-              "type": "planner-time-tracker",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "planner-time-tracker"
-            }
-          },
-          {
             "id": "7c093710ffbacb93",
             "type": "leaf",
             "state": {
@@ -197,7 +179,24 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 5
+      },
+      {
+        "id": "f6ddb238614fc2b4",
+        "type": "tabs",
+        "dimension": 76.98191933240612,
+        "children": [
+          {
+            "id": "5fe02cc2cf1d179e",
+            "type": "leaf",
+            "state": {
+              "type": "time-ruler-view",
+              "state": {},
+              "icon": "ruler",
+              "title": "Time Ruler"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,7 +217,7 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "7c093710ffbacb93",
+  "active": "5fe02cc2cf1d179e",
   "lastOpenFiles": [
     "00 Home/Homepage.md",
     "Untitled.md",
