@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "759944ab795890be",
+        "id": "d262e222ba0c07dc",
         "type": "tabs",
         "children": [
           {
-            "id": "730a7e528a8cace6",
+            "id": "6baf5b19810debcf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -222,7 +222,7 @@
       "time-blocks:Open time blocks": false
     }
   },
-  "active": "730a7e528a8cace6",
+  "active": "6baf5b19810debcf",
   "lastOpenFiles": [
     "01 Tasks/Wash Dishes.md",
     "2026-09-07.md",
