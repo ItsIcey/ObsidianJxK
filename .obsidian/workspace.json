@@ -15,7 +15,7 @@
               "state": {
                 "file": "00 Home/Tasks.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Tasks"
