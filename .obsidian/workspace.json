@@ -185,9 +185,19 @@
               "icon": "timer",
               "title": "Time Tracker"
             }
+          },
+          {
+            "id": "afad55703834db31",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -217,10 +227,10 @@
       "tasknotes:Create new task": false
     }
   },
-  "active": "681d477ba8cf88ba",
+  "active": "afad55703834db31",
   "lastOpenFiles": [
-    "00 Home/Homepage.md",
     "TaskNotes/Start Here.md",
+    "00 Home/Homepage.md",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
     "TaskNotes/Views/agenda-default.base",
