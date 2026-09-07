@@ -9,3 +9,4 @@ work from X to Y  (set time here)
 relax after work
 dinner
 more relaxing
+get fucked (ideal)
