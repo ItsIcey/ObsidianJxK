@@ -197,12 +197,12 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 437.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,12 +220,12 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "7c093710ffbacb93",
   "lastOpenFiles": [
+    "01 Tasks/Wash Dishes.md",
     "00 Home/Tasks.md",
     "00 Home/Homepage.md",
     "00 Home/Untitled.base",
-    "01 Tasks/Wash Dishes.md",
     "97 Templates/Projects/Task Template.md",
     "97 Templates/Task.md",
     "00 Home/Julia Dashboard.md",
