@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Tasks/Wash Dishes.md",
+                "file": "00 Home/Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wash Dishes"
+              "title": "Tasks"
             }
           }
         ]
@@ -216,16 +216,16 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "8872957728f31f22",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01 Tasks/New Task.md",
-    "01 Tasks/New Task 1.md",
     "01 Tasks/Wash Dishes.md",
+    "01 Tasks/New Task 1.md",
+    "01 Tasks/New Task.md",
+    "00 Home/Homepage.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Untitled.md",
     "Untitled 3.md",
-    "00 Home/Homepage.md",
     "00 Home/Julia Dashboard.md",
     "2026-09-07.md",
     "00 Home/Tasks.md",
