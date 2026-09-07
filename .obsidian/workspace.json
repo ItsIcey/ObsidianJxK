@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-09-07.md",
+                "file": "00 Home/Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-09-07"
+              "title": "Homepage"
             }
           }
         ]
@@ -216,18 +216,18 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "681d477ba8cf88ba",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled",
-    "00 Home/Homepage.md",
     "2026-09-07.md",
+    "Untitled.md",
+    "06 Daily Inbox",
+    "00 Home/Homepage.md",
     "00 Home/Tasks.md",
     "01 Tasks/Wash Dishes.md",
     "01 Tasks/New Task 1.md",
     "01 Tasks/New Task.md",
     "Untitled 2.md",
     "Untitled 1.md",
-    "Untitled.md",
     "Untitled 3.md",
     "00 Home/Julia Dashboard.md",
     "97 Templates/Projects/Task Template.md",
@@ -241,7 +241,6 @@
     "TaskNotes/Views/mini-calendar-default.base",
     "TaskNotes/Views",
     "TaskNotes",
-    "00 Home/Untitled.base",
     "97 Templates/Task.md",
     "00 Home/Meals.md",
     "00 Home/Katie Dashboard.md",
