@@ -2,7 +2,7 @@
   "version": 1,
   "settings": {
     "calendarFeeds": [],
-    "defaultTaskDuration": 30,
+    "defaultTaskDuration": 15,
     "workdayStart": 8,
     "workdayEnd": 18,
     "taskBlockColor": "#7B61FF",
