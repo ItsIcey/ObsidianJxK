@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 Home/Homepage.md",
+                "file": "01 Tasks/New Task 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "New Task 1"
             }
           }
         ]
@@ -217,9 +217,10 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "5fe02cc2cf1d179e",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "00 Home/Homepage.md",
+    "01 Tasks/New Task 1.md",
     "Untitled.md",
     "97 Templates/Projects/Task Template.md",
     "97 Templates/Projects",
