@@ -1,3 +1,3 @@
 ```
-Hit Ct
+Hit $\text{Ctrl} $
 ```
