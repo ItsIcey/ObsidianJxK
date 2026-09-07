@@ -14,9 +14,9 @@ dataSource:
   value: ""
   dateField: {}
   filters: []
-fillTheScreen: false
+fillTheScreen: true
 enableMainContainerShadow: false
 cellStyleRules: []
-
 ```
+
 
