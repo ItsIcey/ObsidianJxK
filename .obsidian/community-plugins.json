@@ -4,10 +4,13 @@
   "obsidian-style-settings",
   "periodic-notes",
   "homepage",
-  "obsidian-day-planner",
   "dataview",
-  "calendar",
   "buttons",
   "obsidian-icon-folder",
-  "github-sync"
+  "github-sync",
+  "contribution-graph",
+  "obsidian-latex-suite",
+  "calendar",
+  "time-ruler",
+  "note-toolbar"
 ]
