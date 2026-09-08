@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "daily schedual.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "daily schedual"
             }
           }
         ]
@@ -212,13 +216,13 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "681d477ba8cf88ba",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "01 Tasks/New Task.md",
+    "list of excersize.md",
     "01 Tasks/New Task 1.md",
+    "01 Tasks/New Task.md",
     "00 Home/Homepage.md",
     "daily schedual.md",
-    "list of excersize.md",
     "Untitled 1.md",
     "Untitled.md",
     "2026-09-21.md",
