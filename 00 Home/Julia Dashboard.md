@@ -1,1 +1,1 @@
-- [ ] Exercise - An hour of Beatsaber or 30 min walk (return after 15m)  [repeat:: every day]  [scheduled:: 2026-09-09]
+- [ ] Exercise - [[Daily Exercises]]  [repeat:: every day]  [scheduled:: 2026-09-09]
