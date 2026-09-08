@@ -11,14 +11,10 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily schedual.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "daily schedual"
+              "title": "New tab"
             }
           }
         ]
@@ -216,8 +212,10 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "681d477ba8cf88ba",
   "lastOpenFiles": [
+    "01 Tasks/New Task.md",
+    "01 Tasks/New Task 1.md",
     "00 Home/Homepage.md",
     "daily schedual.md",
     "list of excersize.md",
@@ -228,8 +226,6 @@
     "06 Daily Inbox",
     "00 Home/Tasks.md",
     "01 Tasks/Wash Dishes.md",
-    "01 Tasks/New Task 1.md",
-    "01 Tasks/New Task.md",
     "Untitled 2.md",
     "Untitled 3.md",
     "00 Home/Julia Dashboard.md",
