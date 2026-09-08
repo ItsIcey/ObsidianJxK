@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Julia/Daily Exercises.md",
+                "file": "04 Julia/Julia - Exercise Tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily Exercises"
+              "title": "Julia - Exercise Tracker"
             }
           }
         ]
@@ -216,12 +216,13 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "681d477ba8cf88ba",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
     "00 Home/Julia Dashboard.md",
+    "04 Julia/Julia - Exercise Tracker.md",
+    "04 Julia/Julia - Daily Exercises.md",
     "00 Home/Katie Dashboard.md",
     "00 Home/Homepage.md",
-    "04 Julia/Daily Exercises.md",
     "01 Tasks/Julia - Daily Schedule.md",
     "daily schedual.md",
     "01 Tasks/New Task 1.md",

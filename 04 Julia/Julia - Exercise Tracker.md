@@ -1,0 +1,1 @@
+- [ ] Exercise - [[Julia - Daily Exercises]]  [repeat:: every day]  [scheduled:: 2026-09-09]
