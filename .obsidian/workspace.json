@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 Daily Inbox/I.md",
+                "file": "00 Home/Homepage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "I"
+              "title": "Homepage"
             }
           }
         ]
@@ -218,8 +218,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "02 Periodic/Julia/1 Daily/F.md",
     "06 Daily Inbox/I.md",
+    "02 Periodic/Julia/1 Daily/F.md",
     "02 Periodic/Julia/2 Weekly/E.md",
     "02 Periodic/Julia/3 Monthly/D.md",
     "02 Periodic/Katie/1 Daily/C.md",
