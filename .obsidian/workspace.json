@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Julia/Julia - Exercise Tracker.md",
+                "file": "02 Periodic/Katie/3 Monthly/A.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Julia - Exercise Tracker"
+              "title": "A"
             }
           }
         ]
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 421.833251953125
+    "width": 392.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,11 +218,15 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "03 Projects/Projects Temp.md",
+    "02 Periodic/Katie/3 Monthly/A.md",
+    "04 Julia/Internship/Internship Temp.md",
+    "04 Julia/Sword Shop/Sword Shop Temp.md",
+    "00 Home/Homepage.md",
     "00 Home/Julia Dashboard.md",
+    "00 Home/Katie Dashboard.md",
     "04 Julia/Julia - Exercise Tracker.md",
     "04 Julia/Julia - Daily Exercises.md",
-    "00 Home/Katie Dashboard.md",
-    "00 Home/Homepage.md",
     "01 Tasks/Julia - Daily Schedule.md",
     "daily schedual.md",
     "01 Tasks/New Task 1.md",
@@ -249,10 +253,6 @@
     "97 Templates/Task.md",
     "00 Home/Meals.md",
     "00 Home/Calendar.md",
-    "Untitled 4.md",
-    "2026-08-31.md",
-    "00 Home/Shared Dashboard.md",
-    "Welcome.md",
-    "01 Tasks/Untitled.md"
+    "Untitled 4.md"
   ]
 }
