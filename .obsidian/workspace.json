@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04 Julia/Long Term/Learn Knitting.md",
+                "file": "04 Julia/Internship/Get an Internship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learn Knitting"
+              "title": "Get an Internship"
             }
           }
         ],
@@ -231,11 +231,11 @@
       "templater-obsidian:Templater": true
     }
   },
-  "active": "c61dabacd24dbe90",
+  "active": "681d477ba8cf88ba",
   "lastOpenFiles": [
-    "04 Julia/Long Term/Untitled.md",
     "04 Julia/Long Term/Learn Knitting.md",
-    "04 Julia/Long Term/Get an Internship.md",
+    "04 Julia/Long Term/Untitled.md",
+    "04 Julia/Internship/Get an Internship.md",
     "04 Julia/Long Term Projects.md",
     "04 Julia/Long Term",
     "01 Tasks/Wash Dishes.md",
