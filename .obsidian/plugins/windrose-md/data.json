@@ -29,5 +29,19 @@
   "shapePreviewKbm": true,
   "shapePreviewTouch": false,
   "developerMode": false,
-  "onboardingState": "pending"
+  "onboardingState": "done",
+  "features": {
+    "hexMaps": true,
+    "regions": true,
+    "outlines": true,
+    "subMaps": true,
+    "fogOfWar": true,
+    "dungeonGenerator": true,
+    "tiles": true,
+    "walls": true,
+    "notePins": true,
+    "partyPin": true,
+    "shapeOverlays": true,
+    "measurement": true
+  }
 }

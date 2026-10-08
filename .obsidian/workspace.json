@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Worldmap Test.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -234,6 +234,8 @@
   },
   "active": "f5dbfc38fb23933a",
   "lastOpenFiles": [
+    "windrose-md-data.bak1.json",
+    "windrose-md-data.json",
     "00 Home/Homepage.md",
     "Worldmap Test.md",
     "04 Julia/Long Term/Learn Knitting.md",
@@ -260,7 +262,6 @@
     "04 Julia/Julia - Daily Exercises.md",
     "01 Tasks/Julia - Daily Schedule.md",
     "daily schedual.md",
-    "01 Tasks/New Task 1.md",
     "06 Daily Inbox",
     "TaskNotes/Views/relationships.base",
     "TaskNotes/Views/pomodoro-stats.base",
@@ -268,7 +269,6 @@
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
     "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/mini-calendar-default.base",
-    "TaskNotes/Views"
+    "TaskNotes/Views/mini-calendar-default.base"
   ]
 }
