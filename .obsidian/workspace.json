@@ -235,6 +235,7 @@
   },
   "active": "f5dbfc38fb23933a",
   "lastOpenFiles": [
+    "windrose-md-data.bak2.json",
     "windrose-md-data.bak1.json",
     "windrose-md-data.json",
     "00 Home/Homepage.md",
@@ -269,7 +270,6 @@
     "TaskNotes/Views/agenda-default.base",
     "TaskNotes/Views/calendar-default.base",
     "TaskNotes/Views/tasks-default.base",
-    "TaskNotes/Views/kanban-default.base",
-    "TaskNotes/Views/mini-calendar-default.base"
+    "TaskNotes/Views/kanban-default.base"
   ]
 }
